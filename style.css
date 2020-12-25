@@ -1,0 +1,15 @@
+#cat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.item {
+    color: red;
+    padding: 5px;
+    margin: 10px;
+}
+.header {
+    color: green;
+    font-size: 50px;
+}
